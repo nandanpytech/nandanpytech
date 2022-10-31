@@ -3,7 +3,7 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 # 💫 About Me:
-🔭 I’m currently working on DSA and React project.<br>👯 I’m looking to collaborate on any open source platform.<br>🤝 I’m looking for forward to enhance my knowledge<br>by learning new skills and grow in the tech fields<br>🌱 I’m currently learning MERN development<br>💬 Ask me about Open Source & Web development<br>⚡ Fun fact  choose mech to grow in tech
+🔭 I’m currently working on DSA and React project.<br>👯 I’m looking to collaborate on any open source platform.<br>🌱 I’m currently learning MERN development<br>💬 Ask me about Open Source & Web development<br>⚡ Fun fact  choose mech to grow in tech
 
 
 ## 🌐 Socials:
