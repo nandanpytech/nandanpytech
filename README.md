@@ -1,5 +1,5 @@
+![opensource](https://user-images.githubusercontent.com/87522041/199079251-f58b9926-fddc-4493-8906-748fce2274df.png)
 
-![MasterHead](https://user-images.githubusercontent.com/87522041/199077656-c3fdff7b-197b-4cde-88b6-c45697c5f5ac.png)
 
 # 💫 About Me:
 🔭 I’m currently working on DSA and React project.<br>👯 I’m looking to collaborate on any open source platform.<br>🤝 I’m looking for forward to enhance my knowledge<br>by learning new skills and grow in the tech fields<br>🌱 I’m currently learning MERN development<br>💬 Ask me about Open Source & Web development<br>⚡ Fun fact  choose mech to grow in tech
