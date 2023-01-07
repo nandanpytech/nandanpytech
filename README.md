@@ -6,7 +6,7 @@
 🔭 I’m currently working on DSA and React project.<br>👯 I’m looking to collaborate on any open source platform.<br>💬 Ask me about Open Source & Web development.<br>⚡ Fun fact  choosen mech to grow in tech.
 
 
-## 🌐 Socials :
+## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/nandan-bilagi-47127b1b7/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/https://twitter.com/NandanBilagi)
 
 
